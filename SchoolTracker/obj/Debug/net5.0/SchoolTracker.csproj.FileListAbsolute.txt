@@ -1,0 +1,16 @@
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.AssemblyInfo.cs
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.exe
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.deps.json
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.runtimeconfig.json
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.runtimeconfig.dev.json
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.dll
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\ref\SchoolTracker.dll
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\bin\Debug\net5.0\SchoolTracker.pdb
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.dll
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\ref\SchoolTracker.dll
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.pdb
+C:\Users\manik\Documents\Sapient .NET Course\SchoolTracker\obj\Debug\net5.0\SchoolTracker.genruntimeconfig.cache
