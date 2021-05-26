@@ -1,0 +1,16 @@
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.exe
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.deps.json
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.runtimeconfig.json
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.runtimeconfig.dev.json
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.dll
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\ref\Survey.dll
+C:\Users\manik\Documents\Sapient .NET Course\Survey\bin\Debug\net5.0\Survey.pdb
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.csprojAssemblyReference.cache
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.AssemblyInfoInputs.cache
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.AssemblyInfo.cs
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.dll
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\ref\Survey.dll
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.pdb
+C:\Users\manik\Documents\Sapient .NET Course\Survey\obj\Debug\net5.0\Survey.genruntimeconfig.cache
